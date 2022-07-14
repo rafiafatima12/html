@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: 
+Blog"</title>
+        <style>
+            body{
+                background-color:rgb(235, 
+206, 232);
+                line-height:1.2em;
+            }
+            #blog{
+                color:rgb(138, 88, 102);
+                text-decoration:underline
+;
+                font-size:50px;
+            }
+            .b{
+                color:rgb(102, 30, 102);
+            }
+            .l{
+                color:rgb(10, 20, 90);
+             }
+            p{
+                color:rgb(10,20,90);
+            }
+            #b{
+                color:rgb(102,30,102);
+            }
+            #l{
+                color:rgb(102,30,102);
+            }
+            #o{
+                color:rgb(102,30,102);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id="blog">R's blog</h1>
+        <h2 class="b">Contents</h2>
+        <ul class="l">
+           <li><a href="#b">Introduction
+</a></li>
+            <li><a href="#l">Hobbies</a
+></li>
+<li><a href="#o">My personality</a></li>
+ </ul>
+<p>Hey everyone!<br>I'm a student who is 
+pursuing a Bachelors degree of Engineerin
+g in the field Information Technology.</p
+>
+ <h2 id="l">Hobbies</h2>
+ <p>Each person has different hobbies and 
+doing it gives them joy.Playing badminton 
+is one of my many hobbies that relaxs me 
+after a stressful day at college.In my 
+free time, I love to watch new series on 
+the OTT.The latest series I watched was 
+<em><a href="https://www.google.co.in
+/search?q=all+of+us+are+dead&ie=UTF-8&oe
+=UTF-8&hl=en-in&client=safari">"All of us 
+are dead"</a></em>.</p>
+ <h2 id="o">My Personality</h2>
+ <p>I am a very short-tempered person.I 
+look at all things good,which makes me an 
+optimist.I've always been taught to be 
+courageous in difficulties and keep 
+myself motivated.I have always tried 
+myself to be a very helpful and humble 
+person.I strongly believe that it is in 
+our hands how we master ourselves to look 
+into a beautiful future.</p>
